@@ -1,0 +1,9 @@
+F:\downloads\c#\c# gui tests\FULL1_APLLICATION\FULL1_APLLICATION\bin\Debug\FULL1_APLLICATION.exe.config
+F:\downloads\c#\c# gui tests\FULL1_APLLICATION\FULL1_APLLICATION\bin\Debug\FULL1_APLLICATION.exe
+F:\downloads\c#\c# gui tests\FULL1_APLLICATION\FULL1_APLLICATION\bin\Debug\FULL1_APLLICATION.pdb
+F:\downloads\c#\c# gui tests\FULL1_APLLICATION\FULL1_APLLICATION\obj\Debug\FULL1_APLLICATION.csprojResolveAssemblyReference.cache
+F:\downloads\c#\c# gui tests\FULL1_APLLICATION\FULL1_APLLICATION\obj\Debug\FULL1_APLLICATION.Form1.resources
+F:\downloads\c#\c# gui tests\FULL1_APLLICATION\FULL1_APLLICATION\obj\Debug\FULL1_APLLICATION.Properties.Resources.resources
+F:\downloads\c#\c# gui tests\FULL1_APLLICATION\FULL1_APLLICATION\obj\Debug\FULL1_APLLICATION.csproj.GenerateResource.Cache
+F:\downloads\c#\c# gui tests\FULL1_APLLICATION\FULL1_APLLICATION\obj\Debug\FULL1_APLLICATION.exe
+F:\downloads\c#\c# gui tests\FULL1_APLLICATION\FULL1_APLLICATION\obj\Debug\FULL1_APLLICATION.pdb
